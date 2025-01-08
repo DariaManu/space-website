@@ -365,6 +365,10 @@
     font-size: 11rem;
 }
 
+#space-yt-link:link {
+    text-decoration: none;
+}
+
 @media(prefers-reduced-motion) {
     .hidden {
         transition: none;
