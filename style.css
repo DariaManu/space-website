@@ -1,9 +1,10 @@
 :root {
-    --content-section-bg-color: #19282D;
+    --content-section-bg-color: #1D212B;
+
+    --content-section-bg-color-1: #19282D;
     --content-section-bg-color-2: #07132E;
     --content-section-bg-color-3: #081636;
     --content-section-bg-color-4: #000B2E;
-    --content-section-bg-color-5: #1D212B;
 
     --container-bg-color: #726669;
     --filler-div-height: 70vh;
@@ -149,7 +150,7 @@
 #content-section-1 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -165,7 +166,7 @@
 #content-section-2 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -181,7 +182,7 @@
 #content-section-3 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -197,7 +198,7 @@
 #content-section-4 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -229,7 +230,7 @@
 #content-section-5 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -245,7 +246,7 @@
 #content-section-6 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -278,7 +279,7 @@
 #content-section-7 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -294,7 +295,7 @@
 #content-section-8 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -303,7 +304,7 @@
 #content-section-9 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -344,7 +345,7 @@
 #content-section-10 {
     width: 100%;
     min-height: 100vh;
-    background-color: var(--content-section-bg-color-5);
+    background-color: var(--content-section-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
